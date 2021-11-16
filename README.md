@@ -2,3 +2,4 @@ A minimal ecommerceapp built using ReactJs, Bootstrap for frontend and Nodejs fo
 Product data was fetched by fakestoreapi</br>
 Was'nt successful at completing the backend</br>
 Video recording of the website has been uploaded in the './video' file </br>
+![caption]()
